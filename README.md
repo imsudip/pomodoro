@@ -13,8 +13,8 @@
 
 Pomodoro is a timer app with customizable time and different themes to choose from. It helps you stay focused on your work by tracking the time you spend working on a task. 
 Pomodoro is a simple, beautiful and intuitive app that makes it easy to track time. Built on top of the proven Pomodoro Technique.
-Features
 
+## Features
  - [x] 3 Different themes
  - [x] Customizable time frame.
 
